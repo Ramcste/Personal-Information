@@ -1,0 +1,18 @@
+H:\Workspace\Visual Studio 2013\Projects\PersonnelInformationApp\PersonnelInformationApp\bin\Debug\PersonnelInformationApp.exe.config
+H:\Workspace\Visual Studio 2013\Projects\PersonnelInformationApp\PersonnelInformationApp\bin\Debug\PersonnelInformationApp.exe
+H:\Workspace\Visual Studio 2013\Projects\PersonnelInformationApp\PersonnelInformationApp\bin\Debug\PersonnelInformationApp.pdb
+H:\Workspace\Visual Studio 2013\Projects\PersonnelInformationApp\PersonnelInformationApp\obj\Debug\PersonnelInformationApp.csprojResolveAssemblyReference.cache
+H:\Workspace\Visual Studio 2013\Projects\PersonnelInformationApp\PersonnelInformationApp\obj\Debug\PersonnelInformationApp.Form1.resources
+H:\Workspace\Visual Studio 2013\Projects\PersonnelInformationApp\PersonnelInformationApp\obj\Debug\PersonnelInformationApp.Properties.Resources.resources
+H:\Workspace\Visual Studio 2013\Projects\PersonnelInformationApp\PersonnelInformationApp\obj\Debug\PersonnelInformationApp.csproj.GenerateResource.Cache
+H:\Workspace\Visual Studio 2013\Projects\PersonnelInformationApp\PersonnelInformationApp\obj\Debug\PersonnelInformationApp.exe
+H:\Workspace\Visual Studio 2013\Projects\PersonnelInformationApp\PersonnelInformationApp\obj\Debug\PersonnelInformationApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PersonnelInformationApp\PersonnelInformationApp\bin\Debug\PersonnelInformationApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PersonnelInformationApp\PersonnelInformationApp\obj\Debug\PersonnelInformationApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PersonnelInformationApp\PersonnelInformationApp\obj\Debug\PersonnelInformationApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PersonnelInformationApp\PersonnelInformationApp\bin\Debug\PersonnelInformationApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PersonnelInformationApp\PersonnelInformationApp\bin\Debug\PersonnelInformationApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PersonnelInformationApp\PersonnelInformationApp\obj\Debug\PersonnelInformationApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PersonnelInformationApp\PersonnelInformationApp\obj\Debug\PersonnelInformationApp.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PersonnelInformationApp\PersonnelInformationApp\obj\Debug\PersonnelInformationApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PersonnelInformationApp\PersonnelInformationApp\obj\Debug\PersonnelInformationApp.csproj.GenerateResource.Cache
